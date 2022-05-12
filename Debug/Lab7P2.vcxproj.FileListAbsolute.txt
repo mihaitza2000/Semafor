@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Lab7P2\Debug\Lab7P2.exe
+C:\Users\hp\source\repos\Lab7P2\Debug\Lab7P2.pdb
+C:\Users\hp\source\repos\Lab7\Lab7P2\Debug\Lab7P2.exe
+C:\Users\hp\source\repos\Lab7\Lab7P2\Debug\Lab7P2.pdb
+C:\Users\hp\Desktop\Tentative de jocuri\Semafor\Debug\Lab7P2.exe
+C:\Users\hp\Desktop\Tentative de jocuri\Semafor\Debug\Lab7P2.pdb
